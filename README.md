@@ -48,15 +48,3 @@ Play test
 
 Week 4 (7/28 - 8/1/2014) - finishing core gameplay
 Play test
-
-Week 5 (8/4 - 8/8/2014)
-
-Level select scene
-Determine what other polish is needed
-Week 6 (8/11 - 8/15/2014) - finishing the polish
-
-Work on rewinding particle effects
-Integrate analytics
-Screenshots
-Write game description for App store
-Play around with Apportable to see if Android release is feasible
