@@ -1,5 +1,5 @@
 # AlienHunger
-An ios game
+An ios game where you farm the earth for its delicious inhabitants
 
 # Objective
 Collect as many cows/humans as possible before your battery runs out
@@ -35,7 +35,7 @@ Gameplay
 
 
 
-Week 3 (7/21 - 7/25/2014)
+Week 4 (7/21 - 7/25/2014)
 Add movement
 Add cow generation
 Add human generation
@@ -46,5 +46,5 @@ Add working shop
 Add powerups
 Play test
 
-Week 4 (7/28 - 8/1/2014) - finishing core gameplay
+Week 5 (7/28 - 8/1/2014) - finishing core gameplay
 Play test
