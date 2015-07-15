@@ -1,50 +1,67 @@
-# AlienHunger
+## AlienHunger
 An ios game where you farm the earth for its delicious inhabitants
 
-# Objective
-Collect as many cows/humans as possible before your battery runs out
+## Objective
+Collect as many cows/humans as possible before your spaceship battery runs out
 
-# Gameplay Mechanics
+## Gameplay Mechanics
 
-The spaceship remains in the center of the screen while the ground and target objects move.
-The user clicks at target locations to move the spaceship
+The spaceship remains in the center of the screen while the world moves around the player, this is controlled through the user clicks and holds on a location to effectivley move the spaceship in that direction.
+Cow/Humans are collected when spaceship is over these objects
 
-# Level Design
+## Level Design
 
-There are not levels
+Survival theme based upon spaceship battery life.
 
-# Technical
+## Technical
 
 # Scenes
 
-Main Menu (leads straight into game)
-Shop/Play Again
-Gameplay
+* Main Menu (leads straight into game)
+* Shop/Play Again
+
 # Gameplay
-
 Tap to move
-Hover over a cow to abduct it
-
+Collect objects underneath spaceship
+Other objects can adversley effect the spaceship
 
 # Classes/CCBs
+* Main Scene
+* Menu
 
+##Milestones
+#Week 4 
+* Add core movement mechanic
+* Add radnom cow generation
+* Add random human generation
+* Add random house generation
+* Add working local storage
+* Add fade animation for cow
+* Add working shop
+* Add powerups
+* Play test, Feedback
 
-Main Scene
-Menu
-Gameplay
+#Week 5
+* Refine gameplay based on feedback
+  * Control Mechanic
+* Polish
+  * Artwork
+  * SFX
+* Game Progression
+* User Interface
+* Improve End Scene
 
+#Week 6
+* Polish
+  * Shop UI
+  * Shop Artwork
+* GameCenter Leaderboard
 
+#Week 7
+* Shop IAP
 
-Week 4 (7/21 - 7/25/2014)
-Add movement
-Add cow generation
-Add human generation
-Add house generation
-Add working local storage
-Add fade animation for cow
-Add working shop
-Add powerups
-Play test
+#Week 8
+* Screenshots
+* Descriptions
+* Ship it
 
-Week 5 (7/28 - 8/1/2014) - finishing core gameplay
-Play test
